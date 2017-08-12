@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/**
+  Класс для запуска калькулятора.
+  Поддерживает ввод пользователя.
+*/
 public class InteractRunner {
 	
 	public static void main(String[] args) {
